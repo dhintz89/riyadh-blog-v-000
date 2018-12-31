@@ -64,7 +64,7 @@ a:hover {
   font-weight: bold;
 }
 
-a:click {
+a: {
   color: purple;
 }
 
