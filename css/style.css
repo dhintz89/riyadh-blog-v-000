@@ -64,6 +64,10 @@ a:hover {
   font-weight: bold;
 }
 
+a:active {
+  font-weight: normal;
+}
+
 a:visited {
   color: purple;
 }
