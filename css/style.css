@@ -61,7 +61,7 @@ a {
 }
 
 a:hover {
-  text-decoration: strong;
+  font-weight: bold;
 }
 
 @media only screen and (max-width: 1042px) {
