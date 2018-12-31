@@ -55,7 +55,7 @@ p {
   font-size: 1em;
 }
 
-a {
+a:link {
   color: blue;
   text-decoration: underline;
 }
