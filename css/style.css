@@ -70,6 +70,7 @@ a:active {
 
 a:visited {
   color: purple;
+  text-decoration: none;
 }
 
 @media only screen and (max-width: 1042px) {
