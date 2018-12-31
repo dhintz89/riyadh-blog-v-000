@@ -6,7 +6,7 @@ html, body {
 }
 
 body {
-  background-image: linear-gradient;
+  background-image: linear-gradient(left-right,);
   background-size: cover;
   background-attachment: fixed;
   font-family: Helvetica, Arial, sans-serif;
