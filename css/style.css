@@ -57,7 +57,7 @@ p {
 
 a:link {
   color: blue;
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 a:hover {
